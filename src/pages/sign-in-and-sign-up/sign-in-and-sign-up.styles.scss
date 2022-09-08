@@ -5,10 +5,11 @@
   margin: 30px auto;
 }
 
-// @media (max-width: 768px) {
-//   .sign-in-and-sign-up {
-//     width: 80%;
-//     flex-direction: column;
-//     align-items: center;
-//   }
-// }
+@media (max-width: 768px) {
+  .sign-in-and-sign-up {
+    width: 80%;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+}
