@@ -41,3 +41,17 @@
     color: red;
   }
 }
+
+@media (max-width: 720px) {
+  .checkout-page {
+    width: 90%;
+  }
+
+  button {
+    margin-left: 0 !important;
+  }
+
+  .total {
+    margin-left: 0 !important;
+  }
+}
